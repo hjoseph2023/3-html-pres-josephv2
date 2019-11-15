@@ -21,7 +21,13 @@ h2 {
     text-align: center;
 
 }
-
+h3 {
+       font-family: 'Shadows Into Light Two', cursive;
+    font-size: 1vw;
+    color: white;
+    text-align: center;
+}
+}
 .fullscreen-img-1 {
     /* The image used */
     background-image: url("../img/Toronto-River-Furtado.jpg");
